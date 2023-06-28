@@ -1,4 +1,4 @@
-### Olá! Eu sou o Marcelo Suarez 👋
+### Olá! Eu sou Marcelo Suarez 👋
 
 - 🔭 Hoje trabalho em projetos de Javscript, React e PHP
 - 🌱 Estudando Back-end
