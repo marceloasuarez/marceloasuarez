@@ -1,8 +1,8 @@
-### Olá! Eu sou Marcelo Suarez 👋
+### Hola, me llamo Marcelo Suarez 👋
 
-- 🔭 Hoje trabalho em projetos de Javscript e PHP
-- 📫 Contate-me no email: marcelo.surez@gmail.com
-- 😄 Pronouns: ele/dele
+- 🔭 Hoy trabajo en proyectos de Javscript e PHP
+- 📫 Me puede contactar en: marcelo.surez@gmail.com
+- 😄 Pronouns: el
 
 <div>
 <a href="https://github.com/marceloasuarez">
